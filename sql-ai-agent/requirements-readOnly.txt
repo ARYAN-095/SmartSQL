@@ -1,0 +1,36 @@
+# Web Frameworks
+flask           # Lightweight web framework for building APIs
+fastapi         # Alternative to Flask, faster with async support
+uvicorn         # ASGI server for running FastAPI apps
+
+# Database & ORM
+sqlalchemy      # ORM for working with relational databases
+pyodbc          # For connecting to Microsoft SQL Server (MSSQL)
+pymysql         # MySQL database connector
+psycopg2        # PostgreSQL database connector
+sqlite3         # Built-in SQLite support in Python
+openpyxl        # Used for handling Excel files (.xlsx)
+
+# Data Processing
+pandas         # Data manipulation & analysis
+numpy          # Numerical computing, often used with pandas
+
+# API Requests & Web Scraping
+requests       # Makes HTTP requests to APIs
+beautifulsoup4 # Web scraping tool for extracting data from websites
+
+# Machine Learning & AI
+scikit-learn   # Standard ML library for classification, regression, etc.
+tensorflow     # Deep learning framework by Google
+torch         # PyTorch, an alternative deep learning framework
+transformers   # Hugging Face library for NLP and AI models
+
+# Computer Vision & NLP
+opencv-python  # OpenCV for image processing
+nltk           # NLP (Natural Language Processing) library
+textblob       # Simpler NLP library, useful for text analysis
+spacy         # Advanced NLP processing framework
+
+# Testing & Validation
+pytest         # Testing framework for writing unit tests
+pydantic       # Data validation library (mainly for FastAPI)
